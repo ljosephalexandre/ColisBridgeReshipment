@@ -1,0 +1,2 @@
+rootProject.name='ColisBridgeReshipment'
+include ':app'
